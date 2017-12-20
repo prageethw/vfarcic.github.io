@@ -16,6 +16,10 @@ Fully operational local cluster with services and processes required for continu
 
 On-site at Telstra in Melbourne
 
+## Date
+
+30th April 2018 to 4th May 2018
+
 ## Group size
 
 5-20 staff
@@ -41,7 +45,7 @@ The goal of the 1st day is to get familiar with the tools and processes used in 
 
 * Introduction.
 * Management crash course on Kubernetes, Microservices, CI/CD.
-* Explanation of Telstra tools, practices, and architecture.
+* Explanation of Telstra tools, practices, and architecture(led by Telstra team).
 * Discussion about microservices.
 * Discussion about Docker and schedulers.
 

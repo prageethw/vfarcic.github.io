@@ -65,6 +65,7 @@ The goal of the 2nd day is to get hands-on experience with Docker and continuous
 * Deployments.
 * Networking.
 * Load balancing and Service Discovery. 
+* Compare K8s vs Docker Swarm
 
 
 ### Day 3

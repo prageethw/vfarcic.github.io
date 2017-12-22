@@ -6,7 +6,7 @@ People that form a self-sufficient team. All expertise is required for a full so
 
 ## Outcome
 
-Fully operational local cluster with services and processes required for continuous deployment, logging, monitoring, and alerting, self-adaptation and healing.
+Fully operational local/aws cluster with services and processes required for continuous deployment, logging, monitoring, and alerting, self-adaptation and healing.
 
 ## Duration
 
